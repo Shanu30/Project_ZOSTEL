@@ -1,4 +1,5 @@
 # ZOSTEL CLONE
+<h3>About website</h3>
 Zostel is one of the largest and oldest networks of hostels and homes in India.<br>
 <p align="center">
 <ol >
